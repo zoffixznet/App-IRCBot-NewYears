@@ -1,0 +1,12 @@
+Revision history for App-IRCBot-NewYears
+
+1.001003  2014-01-25
+        - Converted to dzil
+
+1.001002  2014-01-20
+        - Removed taint mode from t/00-load.t, as it seems to be
+          causing Date::Manip to crap out on amd systems.
+
+1.001001  2014-01-19
+        - First version, released on an unsuspecting world.
+
